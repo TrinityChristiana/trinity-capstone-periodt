@@ -17,7 +17,7 @@
     "jest-dom": "^4.0.0",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.28",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "package.json": "^2.0.1",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
